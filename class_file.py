@@ -198,3 +198,8 @@ Product.get_all_products()
 # print(Product.get_single_prod(103))
 
 # Product.delete_prod(103)
+
+
+
+for i in range(100):
+    print(i)    
